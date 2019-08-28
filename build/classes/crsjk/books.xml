@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auths>
+	<auth>
+		<name>系统管理</name>
+		<code>sys</code>
+		<url></url>
+		<p_code></p_code>
+		<is_button>0</is_button> 
+	</auth>
+	<auth>
+		<name>账户管理</name>
+		<code>acc</code>
+		<url>/system/acc/acclist.jsp</url>
+		<p_code>sys</p_code>
+		<is_button>0</is_button> 
+	</auth>
+	<auth>
+		<name>图书管理</name>
+		<code>book</code>
+		<url>/book/booklist.jsp</url>
+		<p_code></p_code>
+		<is_button>0</is_button> 
+	</auth>
+</auths>
+ <!-- -->

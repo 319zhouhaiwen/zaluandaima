@@ -1,0 +1,34 @@
+<?xml version="1.0"?> 
+<orders>
+	<user>
+		<name>王小明</name>
+		<phone>13485795645</phone>
+		<account>zhangsan</account> 
+		<orderno>O_201904012_201</orderno>
+		<ordertotal>3798.1</ordertotal>
+	</user>
+	<prodlist>
+		<prod> 
+			<pname>索尼相机</pname>
+			<prodcode>P_02_4093</prodcode>
+			<price>3500.0</price>
+			<number>1</number>
+			<total>3500.0</total>
+		</prod> 
+		<prod>  
+			<pname>格子衬衫96A</pname> 
+			<prodcode>P_10_1062</prodcode>
+			<price>198.5</price>
+			<number>1</number>
+			<total>198.5</total>
+		</prod> 
+		<prod>  
+			<pname>果酱饼干</pname> 
+			<prodcode>P_09_2234</prodcode>
+			<price>49.8</price>
+			<number>2</number>
+			<total>99.6</total>
+		</prod> 
+	</prodlist>
+</orders>
+ 

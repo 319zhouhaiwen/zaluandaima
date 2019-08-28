@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+	<user id="1001">
+		<name>张三</name>
+		<age>10</age>
+		<fm>
+			<gx>老爸</gx>
+			<name>张三丰</name>
+		</fm>
+	</user>
+	<user id="dfghfd">
+		<name>李四</name>
+		<age>11</age>
+	</user>
+	<user>
+		<name>李五</name>
+		<age>9</age>
+	</user>
+</users>	
